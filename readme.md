@@ -1,4 +1,4 @@
-## Microsoft Teams UI Template
+# Microsoft Teams UI Template
 
 Since we don't have something fun like Slack's message builder or Walkie for MS Teams (yet), I put together a Sketch template so you can design cards, channel messages, and 1:1 chat examples.
 
@@ -14,3 +14,7 @@ I don't have Segoe UI (Microsoft font) so I primarily used Lato. Message cards h
 
 [ ] Channel tabs
 [ ] More message types
+
+## Thanks to...
+
+Thanks to [Ryan at Small Wins](https://github.com/smallwins/slack-ui-template) for the inspiration!
