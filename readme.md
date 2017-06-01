@@ -12,8 +12,8 @@ I don't have Segoe UI (Microsoft font) so I primarily used Lato. Message cards h
 
 ## Coming soon!
 
-[ ] Channel tabs
-[ ] More message types
+- Channel tabs
+- More message types
 
 ## Thanks to...
 
