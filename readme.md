@@ -17,4 +17,4 @@ I don't have Segoe UI (Microsoft font) so I primarily used Lato. Message cards h
 
 ## Thanks to...
 
-Thanks to [Ryan at Small Wins](https://github.com/smallwins/slack-ui-template) for the inspiration!
+Thanks to [Ryan at Begin](https://github.com/smallwins/slack-ui-template) for the inspiration!
